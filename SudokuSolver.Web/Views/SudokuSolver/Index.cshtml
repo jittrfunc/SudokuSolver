@@ -1,0 +1,52 @@
+﻿@model SudokuSolver.Web.ViewModels.SudokuSolverViewModel
+@{
+    ViewBag.Title = "Sudoku Solver";
+}
+
+@functions {
+    public string GetBlockCellColor(int row, int col)
+    {
+        int rowBlockIndex = row / 3;
+        int colBlockIndex = col / 3;
+        return Math.Abs(rowBlockIndex - colBlockIndex) % 2 == 0 ? "cell-color" : "alternate-cell-color";
+    }
+}
+
+
+<div align="center">
+    <h4>Directions</h4>
+    <p>Only numeric values between 0-9 are accepted. For empty sudoku cells, you can either provide 0 or leave blank.</p>
+    <p>Clicking on the "Sudoku Solver" header above will generate a random sample board.</p>
+</div>
+
+<hr />
+
+<div align="center">
+    @if (Model.ErrorMessage != null)
+    {
+        <p class="error-text">@Model.ErrorMessage</p>
+    }
+
+    @using (Html.BeginForm("Solve", "SudokuSolver", FormMethod.Post))
+    {
+        <div>
+            <table>
+                @for (int row = 0; row < 9; row++)
+                {
+                    <tr>
+                        @for (int col = 0; col < 9; col++)
+                        {
+                            <td>
+                                <input class="board-cell @GetBlockCellColor(row, col)" type="text" name="@("cell_" + row + "_" + col)" value="@Model.Board[row,col]" />
+                            </td>
+                        }
+                    </tr>
+                }
+            </table>
+            <button class="board-button" type="submit" name="Solve" value="Solve">Solve</button>
+        </div>
+
+    }
+</div>
+
+

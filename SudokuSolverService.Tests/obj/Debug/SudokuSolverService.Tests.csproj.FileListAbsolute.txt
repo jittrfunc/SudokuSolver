@@ -1,0 +1,16 @@
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\SudokuSolverService.Tests.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\SudokuSolverService.Tests.pdb
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\SudokuSolverService.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\SudokuSolverService.pdb
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\obj\Debug\SudokuSolverService.Tests.csprojAssemblyReference.cache
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\obj\Debug\SudokuSolverService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\obj\Debug\SudokuSolverService.Tests.csproj.CopyComplete
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\obj\Debug\SudokuSolverService.Tests.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Tests\obj\Debug\SudokuSolverService.Tests.pdb

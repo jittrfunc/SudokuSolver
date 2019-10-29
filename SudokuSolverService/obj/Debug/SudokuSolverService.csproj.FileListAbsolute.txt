@@ -1,0 +1,6 @@
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService\bin\Debug\SudokuSolverService.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService\bin\Debug\SudokuSolverService.pdb
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService\obj\Debug\SudokuSolverService.csprojAssemblyReference.cache
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService\obj\Debug\SudokuSolverService.csproj.CoreCompileInputs.cache
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService\obj\Debug\SudokuSolverService.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService\obj\Debug\SudokuSolverService.pdb

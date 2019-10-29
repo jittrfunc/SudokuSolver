@@ -1,0 +1,11 @@
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Entities\bin\Debug\SudokuSolver.Service.Entities.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Entities\bin\Debug\SudokuSolver.Service.Entities.pdb
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.csproj.CoreCompileInputs.cache
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.dll
+C:\Users\abhra\source\repos\SudokuSolverWeb\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.pdb
+C:\Users\abhra\Desktop\SudokuSolver\SudokuSolverService.Entities\bin\Debug\SudokuSolver.Service.Entities.dll
+C:\Users\abhra\Desktop\SudokuSolver\SudokuSolverService.Entities\bin\Debug\SudokuSolver.Service.Entities.pdb
+C:\Users\abhra\Desktop\SudokuSolver\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.csproj.CoreCompileInputs.cache
+C:\Users\abhra\Desktop\SudokuSolver\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.dll
+C:\Users\abhra\Desktop\SudokuSolver\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.pdb
+C:\Users\abhra\Desktop\SudokuSolver\SudokuSolverService.Entities\obj\Debug\SudokuSolver.Service.Entities.csprojAssemblyReference.cache
